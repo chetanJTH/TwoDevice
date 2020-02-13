@@ -1,0 +1,19 @@
+
+Copyright © 2019 OB.EC. All Rights Reserved.
+ =============================================
+
+[10:35:30]: BeforeTest
+[10:35:30]: =====START TEST=====
+[10:35:30]: =====START TEST=====
+[10:35:31]: AddTextTest is RUNNING...
+[10:35:31]: AddTextTest is FAILED...
+[10:35:31]: Driver Stop
+[10:35:31]: =====FINISH TEST=====
+[10:35:41]: AddImageTest is RUNNING...
+[10:35:41]: Select Edit Button
+[10:35:54]: Navigate To My Design
+[10:35:57]: Select Create Your Own
+[10:36:23]: AddImageTest is FAILED...
+[10:36:26]: Driver Stop
+[10:36:26]: =====FINISH TEST=====
+[10:36:26]: After Test

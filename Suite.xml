@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+
+<suite name="OB Automation Test" parallel="tests" thread-count="2" verbose="2" >
+
+    <listeners>
+        <listener class-name="utils.testListener"/>
+    </listeners>
+
+        <test name="Samsung J7" thread-count="5">
+            <parameter name="port" value="4724"></parameter>
+            <parameter name="deviceID" value="330033acecf394bd"></parameter>
+            <classes>
+                <class name="ImageModule.AddImage"></class>
+            </classes>
+        </test>
+
+        <test name="Samsung A10" thread-count="5">
+            <parameter name="port" value="4725"></parameter>
+            <parameter name="deviceID" value="RZ8M422FZJA"></parameter>
+            <classes>
+                <class name="FontModule.AddText"></class>
+            </classes>
+        </test>
+
+
+
+
+</suite>

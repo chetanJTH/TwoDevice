@@ -1,0 +1,24 @@
+
+Copyright © 2019 OB.EC. All Rights Reserved.
+ =============================================
+
+[10:33:40]: BeforeTest
+[10:33:40]: =====START TEST=====
+[10:33:40]: =====START TEST=====
+[10:33:40]: AddTextTest is RUNNING...
+[10:33:40]: AddTextTest is FAILED...
+[10:33:40]: Driver Stop
+[10:33:40]: =====FINISH TEST=====
+[10:33:51]: AddImageTest is RUNNING...
+[10:33:51]: Select Edit Button
+[10:34:04]: Navigate To My Design
+[10:34:08]: Select Create Your Own
+[10:34:12]: Select Custom Template Card
+[10:34:15]: AddImage Button Clickable
+[10:34:46]: Choose Image Button Clickable
+[10:34:49]: Root Button Clicked
+[10:34:53]: Photos Clicked
+[10:35:19]: AddImageTest is FAILED...
+[10:35:23]: Driver Stop
+[10:35:23]: =====FINISH TEST=====
+[10:35:23]: After Test

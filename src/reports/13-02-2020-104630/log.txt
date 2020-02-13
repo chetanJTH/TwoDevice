@@ -1,0 +1,13 @@
+[10:46:30]: =====START TEST=====
+[10:46:30]: AddImageTest is RUNNING...
+[10:46:30]: Select Edit Button
+[10:46:30]: AddImageTest is FAILED...
+[10:46:30]: Driver Stop
+[10:46:30]: =====FINISH TEST=====
+[10:46:41]: AddTextTest is RUNNING...
+[10:46:53]: My design button clicked
+[10:46:57]: Create own button clicked
+[10:47:22]: AddTextTest is FAILED...
+[10:47:25]: Driver Stop
+[10:47:25]: =====FINISH TEST=====
+[10:47:26]: After Test

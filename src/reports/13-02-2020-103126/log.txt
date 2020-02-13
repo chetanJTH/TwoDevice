@@ -1,0 +1,15 @@
+[10:31:26]: =====START TEST=====
+[10:31:26]: AddImageTest is RUNNING...
+[10:31:27]: AddImageTest is FAILED...
+[10:31:27]: Driver Stop
+[10:31:27]: =====FINISH TEST=====
+[10:31:45]: AddImageTest is RUNNING...
+[10:31:56]: Select Edit Button
+[10:31:57]: Navigate To My Design
+[10:31:59]: Select Create Your Own
+[10:32:01]: Select Custom Template Card
+[10:32:27]: AddImage Button Clickable
+[10:32:55]: AddImageTest is FAILED...
+[10:32:58]: Driver Stop
+[10:32:58]: =====FINISH TEST=====
+[10:32:58]: After Test

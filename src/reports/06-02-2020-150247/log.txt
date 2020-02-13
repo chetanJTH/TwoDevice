@@ -1,0 +1,13 @@
+
+Copyright © 2019 OB.EC. All Rights Reserved.
+ =============================================
+
+[15:02:47]: BeforeTest
+[15:02:47]: =====START TEST=====
+[15:02:47]: =====START TEST=====
+[15:02:47]: AddImageTest is RUNNING...
+[15:02:47]: AddImageTest is FAILED...
+[15:02:47]: Driver Stop
+[15:02:47]: =====FINISH TEST=====
+[15:02:50]: AddImageTest is SKIPPED...
+[15:02:50]: =====FINISH TEST=====

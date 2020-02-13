@@ -1,0 +1,11 @@
+
+Copyright © 2019 OB.EC. All Rights Reserved.
+ =============================================
+
+[15:25:51]: BeforeTest
+[15:25:51]: =====START TEST=====
+[15:25:51]: =====START TEST=====
+[15:25:51]: AddImageTest is SKIPPED...
+[15:25:51]: AddTextTest is SKIPPED...
+[15:25:51]: =====FINISH TEST=====
+[15:25:51]: =====FINISH TEST=====

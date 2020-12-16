@@ -75,10 +75,10 @@ public class BaseTest {
 
 
 
-            driver = new AndroidDriver(new URL("http://localhost:4444/wd/hub"),capabilities);
-            driver.manage().timeouts().implicitlyWait(25, TimeUnit.SECONDS);
+            
     }
-
+        driver = new AndroidDriver(new URL("http://localhost:4444/wd/hub"),capabilities);
+        driver.manage().timeouts().implicitlyWait(25, TimeUnit.SECONDS);
 
         actions = new MobileActions(driver);
         System.out.println("[Driver] setup is completed!");
